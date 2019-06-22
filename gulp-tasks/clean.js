@@ -5,5 +5,5 @@ import del from 'del';
 
 
 gulp.task('clean',() => {
-  return del(['./dist/*']);
+    return del(['./dist/*']);
 });
