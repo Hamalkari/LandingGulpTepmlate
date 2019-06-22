@@ -1,0 +1,10 @@
+// Базовые настройки
+@import 'helpers/vars';
+@import 'helpers/mixins';
+@import 'vendor/libs';
+@import 'base/fonts';
+@import 'base/general';
+
+// Подключаем стили для секций
+@import 'sections/header.scss';
+@import 'sections/footer.scss';
